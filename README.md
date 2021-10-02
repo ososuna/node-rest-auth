@@ -1,2 +1,2 @@
 # node-rest-auth
-Rest server in Node.js for auth
+Basic Node.js REST Server template for authentication
